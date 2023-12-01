@@ -1,1 +1,1 @@
-# Ransonware de criptografia criado no curso SANTANDER CIBERSEGURANÇA
+# Ransonware de criptografia criado no curso Santander Cibersegurança
